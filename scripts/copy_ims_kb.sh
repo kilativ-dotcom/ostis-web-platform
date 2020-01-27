@@ -32,6 +32,7 @@ rm -rf ims.ostis.kb_copy/activity_automatisation/administrator/agent_appr_verif_
 
 cp -f kb/eekb/ui_menu_admin_for_eekb.scsi ims.ostis.kb_copy/ui_menu/eekb_commands/activity_automatisation_for_eekb/admin/
 cp -f kb/eekb/ui_menu_developer_for_eekb.scsi ims.ostis.kb_copy/ui_menu/eekb_commands/activity_automatisation_for_eekb/developer/
+cp -f kb/eekb/ui_menu_admin_for_eekb.scsi ims.ostis.kb_copy/ui_menu/eekb_commands/my_changes_for_eekb/
 cp -f kb/eekb/ui_menu_root_for_eekb.scsi ims.ostis.kb_copy/ui_menu/eekb_commands/
 
 rm -rf ims.ostis.kb_copy/ui/menu

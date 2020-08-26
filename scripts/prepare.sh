@@ -32,7 +32,7 @@ clone_project()
 stage "Clone projects"
 
 clone_project https://github.com/ShunkevichDV/sc-machine.git sc-machine scp_stable_context
-clone_project https://github.com/Ivan-Zhukau/sc-web.git sc-web eekb
+clone_project https://github.com/ostis-apps/sc-web.git sc-web eekb
 clone_project https://github.com/ShunkevichDV/ims.ostis.kb.git ims.ostis.kb master
 
 stage "Prepare projects"
